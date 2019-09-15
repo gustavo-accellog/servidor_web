@@ -1,0 +1,15 @@
+{
+  "name": "servidor_html",
+  "version": "1.0.0",
+  "description": "Meu servidor HTML para testar páginas Html, arquivos CSSs e Javascript.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Mantovani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
